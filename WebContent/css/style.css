@@ -1,0 +1,131 @@
+		#father{
+				width: 900px;
+				margin: auto;				
+			}	
+			#logo{
+				background-color: beige;
+			}		
+			#logo1{
+				float: left;				
+			}
+			#logo2{
+				float: right;
+				margin-top: 30px;
+				background-color: white;				
+			}
+			#navigation{
+				background-color: beige;
+				height: 50px;
+				padding-top: 10px;
+			}
+			#navigation1{
+				background-color: burlywood;
+				height: 50px;
+				padding-top: 10px;
+			}
+			#product_left{
+				width: 25%;
+				height: 100%;
+				float: left;
+			}
+			#product_right{
+				width: 75%;
+				height: 100%;
+				float: left;
+			}
+			.clear{
+				clear: both;
+			}
+			a{
+				text-decoration: none;
+			}
+			a:link{
+				color: black;
+			}
+			a:visited{
+				color: blue;
+			}
+			a:hover{
+				color: red;
+			}
+			a:active{
+				color: green;
+			}
+			ul li{
+			display: inline;
+			}
+			#pageUl li{
+			font-size:20px;			
+			}
+			.product{
+				float:left;
+				width: 25%;
+				text-align: center;
+			}
+			.last{
+				text-align: center;
+			}
+			#logo_left{
+				float:left;
+			}
+			#logo_right{
+				float: right;
+				margin-top: 30px;
+			}
+			#nag{
+				background-color: #999999;
+				height: 45px;
+				padding-top:3px ;
+			}
+			
+			ul a{
+				/*去除下划线*/
+				text-decoration: none;
+			}
+			#pro_left{
+				width: 25%;
+				
+				float: left;
+			}
+			#pro_right{
+				width: 75%;
+				
+				float: left;
+			}
+			.product{
+				text-align: center;
+				width: 25%;
+				float:left;
+			}
+			.product p{
+				margin-top: 0px;
+			}
+			#mlink{
+				text-align: center;
+				font-family: "微软雅黑";
+				font-size: 15px;
+				
+			}
+			#mlink a{
+				margin-right: 20px;
+				text-decoration: none;
+			}
+			#mlink a:link{
+				color: black;	
+			}
+			#mlink a:visited{
+				color: black;	
+			}
+			#mlink a:hover{
+				color:#999;	
+			}
+			#mlink a:active{
+				color:cadetblue;	
+			}
+			#mCopy{
+				text-align: center;
+				color: black;
+				font-size: 15px;
+				margin-bottom: 30px;
+				margin-top: 20px;
+			}
